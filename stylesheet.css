@@ -1,0 +1,20 @@
+.bg-result {
+    background: #32363D;
+}
+
+.bg-header{
+    background: #2A69AE;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+    margin: 0;
+    color:white;
+}
+
+#dataDiv{
+    overflow: scroll;
+}
+
+.vh-60{
+    height: 60vh;
+}
